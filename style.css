@@ -5,9 +5,14 @@
 }
 
 /* home page styleing */
+navbar {
+  background-color: #0F172A !important;
+}
+
 .homepage {
     height: 100vh;
     background-color: #f1f3f5;
+    
 }
 
 .name_style {
@@ -61,8 +66,8 @@
 
 .skill-img-style {
     border-radius: 20px;
-    background:linear-gradient(135deg, #749cc5b0, #93fadbc2);
-    
+    /* background:linear-gradient(135deg, #749cc5b0, #93fadbc2); */
+    background-color:#E2E8F0;
     padding:10px;
 }
 

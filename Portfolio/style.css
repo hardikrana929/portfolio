@@ -100,7 +100,7 @@ navbar {
 }
 
 .pro-card {
-    /* background-color: rgba(225, 237, 249, 0.4); */
+    background-color: rgba(225, 237, 249, 0.4);
     border-radius: 10px;
     padding:10px;
 }
